@@ -1,0 +1,43 @@
+html body{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.square{
+    width: 450px;
+    height: 650px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 30px;
+    margin: 150px auto;
+    padding-top: 25px;
+    text-align: center;
+}
+
+.bleu {
+    width: 400px;
+    height: 400px;
+    border-radius: 15px;
+}
+
+/*Improve your front-end skills by building projects Scan the QR code to visit Frontend Mentor and take your coding skills to the next level*/
+
+#texte{
+    width: 350px;
+    height: 100px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#texte2{
+    width: 350px;
+    height: 100px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 0 auto;
+    color: hsl(220, 15%, 55%);
+}
